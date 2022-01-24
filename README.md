@@ -1,1 +1,1 @@
-# Vr-Kitchen-Example
+# Simple Vr Kitchen Project
